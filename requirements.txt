@@ -1,7 +1,6 @@
-nltk==3.9.1
+nltk
 streamlit==1.41.1
 scikit-learn==1.6.0
-nltk==3.9.1
 omw-1.4
 wordnet
 punkt
