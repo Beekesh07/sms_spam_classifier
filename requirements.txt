@@ -1,7 +1,7 @@
 nltk
 streamlit==1.41.1
 scikit-learn==1.6.0
-omw-1.4
+omw
 wordnet
 punkt
 punkt_tab
