@@ -1,4 +1,3 @@
-streamlit
-joblib
-nltk
-scikit-learn
+nltk==3.9.1
+streamlit==1.41.1
+
